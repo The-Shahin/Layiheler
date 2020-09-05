@@ -610,6 +610,9 @@ ol {
 @media (max-width: 576px) {
 	.slide-item img {
 		padding: 0;
+		 width: 500px;
+   
+    height: auto;
 	}
 }
 
